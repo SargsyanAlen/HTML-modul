@@ -1,0 +1,21 @@
+header { 
+  background-color: red;
+  width: 900px;
+  height: 400px;
+  text-align: center;
+
+}
+
+ h1 {
+   color: green;
+}
+
+.title {
+	  color: yellow;
+  font-size: 60px;
+}
+
+#paragraph {
+          color: blue;
+  font-size: 16px;
+}/
