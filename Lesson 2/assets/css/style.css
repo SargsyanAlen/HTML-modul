@@ -1,0 +1,46 @@
+section {
+  width: 600px;
+  height: 600px;
+  text-align: center;
+  border: 15px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 30px;
+  row-gap: 30px;
+  padding: 10px;
+  align-items: center;
+  justify-content: center;
+  /*background-color: darkred;*/
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  border: 15px solid darkblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightskyblue;
+}
+
+h1 {
+font-size: 90px;
+color: white;
+padding:40px 60px;
+}
+
+.box1 {
+	background-color: red;
+}
+
+.box2 {
+    background-color: blue;
+}
+
+.box3 {
+    background-color: darkorange;
+}
+
+.box4 {
+    background-color: darkgray;
+}

@@ -1,0 +1,22 @@
+section {
+  width: 600px;
+  height: 600px;
+  text-align: center;
+  border: 15px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  justify-content: center;
+  column-gap: 15px;
+  row-gap: 60px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  border: 5px solid red;
+  /*margin: 30px;*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
